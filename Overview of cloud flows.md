@@ -6,8 +6,8 @@
 - **Instant cloud flow**: Start an automation with the selection of a button.
 - **Scheduled cloud flow**: Start a scheduled automation.
 
-## Create your first cloud flow
-https://learn.microsoft.com/en-us/power-automate/create-cloud-flow-without-copilot#create-a-cloud-flow-without-copilot
-
 ## Explore the cloud flows designer
 https://learn.microsoft.com/en-us/power-automate/flows-designer
+
+## Create your first cloud flow
+https://learn.microsoft.com/en-us/power-automate/create-cloud-flow-without-copilot#create-a-cloud-flow-without-copilot
